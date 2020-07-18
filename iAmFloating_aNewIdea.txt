@@ -1,0 +1,60 @@
+pi@raspberrypi:~ $ cd Projects
+pi@raspberrypi:~/Projects $ mkdir Breathing
+pi@raspberrypi:~/Projects $ cd Breathing/
+pi@raspberrypi:~/Projects/Breathing $ mkdir iAmFloating
+pi@raspberrypi:~/Projects/Breathing $ cd iAmFloating/
+pi@raspberrypi:~/Projects/Breathing/iAmFloating $ emacs -nw aNewIdea.txt
+I don't remember the first time I wrote my name
+What I do remember is the first time someone else was called my name
+I told him that was my name,
+too,
+but he couldn't believe it
+He was a fat boy with a puffy face
+He looked like a little boxer
+
+Now people call me in different names and I don't care
+Why people call me other names might be
+because I am not writing my name the right way,
+though that is how it's written in my documents
+Foreheads furrow whenever I say
+my name, and I have to
+take my papers out and show them for themselves
+
+I sometimes introduce myself as Bob,
+but only where I am sure nobody knows me
+I have to be careful
+or they would know I'm not Bob
+
+Coffee shops are among the places that
+I call myself Bob
+I sometimes forget I am Bob and
+my coffee grows cold
+I never go twice to the same coffee shop
+
+Where is this name from? This is
+the question that I have to answer
+whenever I say my real name
+Cab drivers, clerks
+I rarely take a cab
+Then they tell me they
+have a friend who
+has the same name
+I think about all the people in the world
+with my name and their cab driver friends
+
+I dont have friends, and the only one
+that I had was not a cab driver or clerk
+My name became a different name
+in her mouth
+I want to say I loved hearing it from her
+and maybe I did, but any time I heard it,
+I feared I had done something wrong
+
+I wonder how the fat boy writes his name,
+and if he, like me, is being called
+different names
+
+C-x-C-s
+Wrote /home/pi/Projects/Breathing/iAmFloating/aNewIdea.txt
+C-x-C-
+
