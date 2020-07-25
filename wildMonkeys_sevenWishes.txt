@@ -1,0 +1,53 @@
+pi@raspberrypi:~/Projects/Breathing/ $ emacs -nw wildMonkeys_sevenWishes.txt
+[4]
+Great advantage of the book;
+"connected only to itself, it reaches out
+with the self procession
+of a thinking mind.
+
+[5]
+France.
+What nation has done more
+for the life of Art
+or for the art of Life?
+
+[7]
+Were I to found a religion,
+it would be upon a single tenet:
+"Be kind to animals,
+including human ones."
+Of course, subsequent disciples would kill,
+hashing out the doctrinal details.
+
+[14]
+Being rather slow on the uptake,
+it took me a while to recognize
+that the best part of most books
+is the epigram introducing a chapter.
+
+[17]
+If 6000 American poets boarded one of those garish,
+top heavy, casino-type cruise ships and never returned,
+what effect would this have on literary culture?
+A deterioration? A renewal? No effect whatsoever?
+
+[19]
+Venice. You know the story - the UFO aliens lose patience
+(or complete their research project) and decide
+to rid the planet of its most pestilential species.
+Then one contrarian voice says - "there is Venice,"
+that surpassingly human,
+all too human place
+and the ETs hesitate because
+humanity intensified to
+the Venitian degree
+is uncanny.
+
+[20]
+Best argument against extra terrestials visiting
+the earth: why on earth would they care?
+
+C-x-C-s
+Wrote /home/pi/Projects/Breathing/wildMonkeys_sevenWishes.txt
+C-x-C-
+

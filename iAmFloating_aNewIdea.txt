@@ -1,9 +1,7 @@
 pi@raspberrypi:~ $ cd Projects
 pi@raspberrypi:~/Projects $ mkdir Breathing
 pi@raspberrypi:~/Projects $ cd Breathing/
-pi@raspberrypi:~/Projects/Breathing $ mkdir iAmFloating
-pi@raspberrypi:~/Projects/Breathing $ cd iAmFloating/
-pi@raspberrypi:~/Projects/Breathing/iAmFloating $ emacs -nw aNewIdea.txt
+pi@raspberrypi:~/Projects/Breathing/iAmFloating $ emacs -nw iAmFloating_aNewIdea.txt
 I don't remember the first time I wrote my name
 What I do remember is the first time someone else was called my name
 I told him that was my name,
